@@ -1,139 +1,295 @@
 
-<h1 align="center">Hi 👋, I'm Bharath Goud</h1>
+<!-- ====================================================== -->
+<!--                 BHARATH GOUD | GITHUB                  -->
+<!-- ====================================================== -->
 
-<h3 align="center">Full Stack Developer | MERN Stack | UI/UX Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  Building modern, responsive, and user-friendly web applications by combining full-stack development with creative UI/UX design.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:0F3D56,70:075985,100:164E63&text=BHARATH%20GOUD&fontSize=65&fontColor=FFFFFF&fontAlignY=45&stroke=22D3EE&strokeWidth=1&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://bharathgoudganagoni.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0D9488?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ganagoni-bharath-goud">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharathgoudganagoni123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+Developer+%7C+MERN+Stack;React+Developer+%7C+Frontend+Engineering;UI%2FUX+Enthusiast+%7C+Creative+Thinker;Turning+Ideas+Into+Digital+Experiences" />
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science and Engineering – Vaagdevi College of Engineering (CGPA: 8.54/10).
-- 💻 Passionate about Full Stack Web Development and building real-world applications.
-- 💼 **Web Developer & UI/UX Intern @ Keezenix Global LLP** – Contributed to the company website, from wireframes and design to production deployment.
-- 🎵 **MERN Stack Developer Intern @ Edunet Foundation (NxtGen 3.0)** – Developed a full-stack Spotify Clone.
-- 🎨 Interested in UI/UX design, responsive interfaces, and interactive web experiences.
-- 🌱 Currently improving my skills in TypeScript, backend development, and scalable application architecture.
-- 📫 Email: **bharathgoudganagoni123@gmail.com**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
+<br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <b>Building Digital Experiences. Engineering Real-World Solutions.</b>
 </p>
-
-### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  I develop modern web applications with a focus on clean architecture,
+  responsive interfaces, and meaningful user experiences.
 </p>
 
-### ⚙️ Backend & Databases
+<br/>
+
+<a href="https://bharathgoudganagoni.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ganagoni-bharath-goud">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bharathgoudganagoni123@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Bharathgoudganagoni&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" />
+
+</div>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+<h2 align="center">✦ ABOUT ME ✦</h2>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Hello, I'm Bharath! 👋
+
+I'm a Computer Science graduate and Full Stack Developer passionate about designing and building modern digital products.
+
+I enjoy working across the development lifecycle — from designing user interfaces to developing backend services and integrating databases.
+
+- 🎓 B.Tech CSE — Vaagdevi College of Engineering
+- 📊 CGPA: 8.54/10
+- 💼 Web Developer & UI/UX Intern — Keezenix Global LLP
+- 🚀 MERN Stack Intern — Edunet Foundation
+- 🎨 Interested in UI/UX and creative web experiences
+- 🌱 Currently improving TypeScript and backend development
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathgoudganagoni&layout=donut&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= TECHNOLOGY STACK ================= -->
+
+<h2 align="center">✦ TECHNOLOGY ARSENAL ✦</h2>
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" />
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,redux,tailwind&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+### Developer Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" />
+
+</div>
+
+---
+
+<!-- ================= EXPERIENCE ================= -->
+
+<h2 align="center">✦ PROFESSIONAL EXPERIENCE ✦</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Keezenix Global LLP
+
+**Web Developer & UI/UX Intern**
+
+- Worked on company website development.
+- Contributed to UX planning and wireframes.
+- Developed responsive frontend interfaces.
+- Collaborated on the website from design to deployment.
+
+🌐 [Visit Keezenix](https://www.keezenix.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Edunet Foundation
+
+**MERN Stack Developer Intern**
+
+- Developed a full-stack Spotify Clone.
+- Worked with MongoDB, Express, React and Node.js.
+- Implemented playlist and authentication features.
+- Practiced GitHub collaboration and SDLC.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">✦ SELECTED PROJECTS ✦</h2>
+
+<p align="center">
+  A collection of applications, experiments, and real-world development work.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎬 Netflix Clone</h3>
+
+A movie and TV discovery application with authentication concepts and TMDB API integration.
+
+**Stack:** React · Node.js · Express · MongoDB · TMDB API
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎵 Spotify Clone</h3>
+
+A full-stack music streaming application with playlist management and authentication.
+
+**Stack:** React · Node.js · Express · MongoDB
+
+<a href="https://github.com/Bharathgoudganagoni/Spotify_Clone">↗ View Source Code</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚨 WhatsApp Emergency Alert</h3>
+
+An emergency alert web application with WhatsApp integration and location-sharing functionality.
+
+**Stack:** React · Node.js · Express · Twilio
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✋ Gesture-Based Control</h3>
+
+A touch-free computer interaction system using real-time hand gesture recognition.
+
+**Stack:** Python · OpenCV · MediaPipe
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧮 Smart Calculator</h3>
+
+An interactive calculator featuring voice input, themes, sound effects, and animated backgrounds.
+
+**Stack:** JavaScript · HTML · CSS
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 Keezenix Website</h3>
+
+Contributed to the official company website, from UX wireframes through frontend implementation and deployment.
+
+**Stack:** HTML · CSS · JavaScript
+
+<a href="https://www.keezenix.com">↗ Visit Live Website</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB TROPHIES ================= -->
+
+<h2 align="center">✦ GITHUB ACHIEVEMENTS ✦</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bharathgoudganagoni&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+
+</div>
+
+---
+
+<!-- ================= ANALYTICS ================= -->
+
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bharathgoudganagoni&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathgoudganagoni&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+<h2 align="center">✦ CONTRIBUTION ACTIVITY ✦</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathgoudganagoni&bg_color=020617&color=67E8F9&line=0891B2&point=FFFFFF&area=true&area_color=164E63&hide_border=true&custom_title=Development%20Activity" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+<h2 align="center">✦ CONTRIBUTION JOURNEY ✦</h2>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Bharathgoudganagoni/Bharathgoudganagoni/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">✦ LET'S BUILD SOMETHING GREAT ✦</h2>
+
+<div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  I'm always interested in learning, collaborating, and building meaningful digital products.
 </p>
 
-### 🔧 Tools & Design
+<a href="https://bharathgoudganagoni.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PERSONAL%20PORTFOLIO-EXPLORE%20MY%20WORK-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<a href="https://linkedin.com/in/ganagoni-bharath-goud">
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="mailto:bharathgoudganagoni123@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 💼 Featured Projects
+<br/><br/>
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| 🎬 **Netflix Clone** | Movie and TV discovery application with authentication features and TMDB API integration. | React, Node.js, Express, MongoDB, TMDB API |
-| 🎵 [**Spotify Clone**](https://github.com/Bharathgoudganagoni/Spotify_Clone) | Full-stack music streaming application with playlist management and authentication. | React, Node.js, Express, MongoDB |
-| ✋ **Gesture-Based Control System** | Touch-free computer interaction using real-time hand gesture recognition. | Python, OpenCV, MediaPipe |
-| 🚨 **WhatsApp Emergency Alert System** | Web application for sending emergency alerts through WhatsApp integration. | React, Node.js, Express, Twilio |
-| 🧮 **Smart Calculator** | Interactive calculator featuring voice input, theme switching, sound effects, and animated backgrounds. | JavaScript, HTML, CSS |
-| 🌐 [**Keezenix Global Website**](https://www.keezenix.com) | Company website developed from UX wireframes to frontend implementation and live deployment. | HTML, CSS, JavaScript |
+### `Code. Create. Innovate. Repeat.`
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:075985,100:020617&height=130&section=footer&animation=fadeIn" />
 
-## 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://bharathgoudganagoni.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit_Now-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  Check out my portfolio to explore my projects, technical skills, development experience, and UI/UX work.
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharathgoudganagoni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathgoudganagoni&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathgoudganagoni&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://bharathgoudganagoni.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0D9488?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ganagoni-bharath-goud">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharathgoudganagoni123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<h3 align="center">💡 Keep Learning. Keep Building. Keep Growing. 🚀</h3>
-
-<p align="center">
-  <i>Open to Full Stack Developer, React Developer, and Web Development opportunities.</i>
-</p>
+</div>
